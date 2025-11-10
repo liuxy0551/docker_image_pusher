@@ -14,4 +14,4 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
 
 # java
-openjdk:17-slim
+openjdk:17
